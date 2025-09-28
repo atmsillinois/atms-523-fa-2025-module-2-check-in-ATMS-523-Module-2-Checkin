@@ -19,3 +19,6 @@ venv/
 
 # data caches
 pooch/
+
+# Data cache directories
+data_cache/
